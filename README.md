@@ -9,8 +9,11 @@ Interactive UI: Includes a navbar, product sections, and more.
 
 # Installation
 Clone the repository: git clone https://github.com/yourusername/nike-clone.git
+
 Navigate to the project directory: cd nike-clone
+
 Install dependencies: npm install
+
 Start the development server: npm start
 
 # Technologies Used
