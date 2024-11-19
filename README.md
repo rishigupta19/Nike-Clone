@@ -9,7 +9,7 @@ Interactive UI: Includes a navbar, product sections, and more.
 
 # Installation
 ### Clone the repository: 
-git clone https://github.com/yourusername/nike-clone.git
+git clone https://github.com/rishigupta19/nike-clone.git
 
 ### Navigate to the project directory:   
 cd nike-clone
