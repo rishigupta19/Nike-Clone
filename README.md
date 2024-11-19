@@ -8,7 +8,7 @@ Tailwind CSS: Utility-first CSS framework for fast styling.
 Interactive UI: Includes a navbar, product sections, and more.
 
 # Installation
-Clone the repository:   git clone https://github.com/yourusername/nike-clone.git
+### Clone the repository: ###   git clone https://github.com/yourusername/nike-clone.git
 
 Navigate to the project directory:   cd nike-clone
 
